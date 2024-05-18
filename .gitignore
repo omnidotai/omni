@@ -1,0 +1,5 @@
+/target
+**env**
+.omnignore
+db.json
+Cargo.lock
